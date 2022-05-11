@@ -1,0 +1,21 @@
+.phone {
+    background-color: black;
+    padding: 15px;
+}
+
+img {
+    float: none;
+}
+
+.fig {
+    width: 70px;
+}
+
+aside {
+    float: right;
+    width: 30%;
+}
+
+#ejemplo {
+    width: 70%;
+}

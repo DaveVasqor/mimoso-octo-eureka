@@ -1,0 +1,23 @@
+
+
+
+.main {
+    border: 20px black;
+    height: 500px;
+    width: 500px;
+    /* Primer paso es usar display : flex */
+    display: flex;
+
+    justify-content: center;
+
+    align-items: flex-start;
+}
+
+
+.Secundario {
+    border: 2px red;
+    width: 40px;
+    height: 40px;
+}
+
+
